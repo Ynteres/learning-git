@@ -27,3 +27,4 @@ for number in nper5:
 print(f"liczby podniesione do potęgi 3 to {thirdpower} ")
 
 print("test GIT")
+print("test2 GIT - cloud change")
